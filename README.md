@@ -12,6 +12,3 @@ You can click the Preview link to take a look at your changes.
 ![Farzana's Scintillating Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=FarzanaZAli&layout=compact)
 ![Farzana's Vivacious Stats](https://github-readme-stats.vercel.app/api?username=FarzanaZAli&theme=jolly&show_icons=true&count_private=true)
 ![Farzana's Dynamic Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarzanaZAli&theme=dracula&show_icons=true)
-
-[![Farzana's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FarzanaZAli)](https://github.com/FarzanaZAli/github-readme-stats)
-
