@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep learning/ML
 - 🌱 I’m currently learning multitask models and multi-label outputs for deep learning
 - 💞️ I’m looking to expand my work on Radiology image analysis with deep learning
-- 📫 How to reach me farzanazali@protonmail.com
+- 📫 You can reach me at farzanazali@protonmail.com
 
 <!---
 FarzanaZAli/FarzanaZAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
