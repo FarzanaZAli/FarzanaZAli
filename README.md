@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- I’m @FarzanaZAli
+ I’m @FarzanaZAli 🤓
 - 👀 I’m interested in Deep learning/ML
 - 🌱 I’m currently learning multitask models and multi-label outputs for deep learning
 - 💞️ I’m looking to expand my work on Radiology image analysis with deep learning
@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-If you are a social butterfly, come find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+If you're a social 🦋, come find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
