@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m @FarzanaZAli
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ I’m @FarzanaZAli
 - 👀 I’m interested in Deep learning/ML
 - 🌱 I’m currently learning multitask models and multi-label outputs for deep learning
 - 💞️ I’m looking to expand my work on Radiology image analysis with deep learning
