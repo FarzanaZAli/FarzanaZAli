@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-If you are a social butterfly, come find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+If you are a social butterfly, come find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
