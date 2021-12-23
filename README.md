@@ -8,7 +8,7 @@
 <!-- Actual text -->
 
 If you're a social 🦋, come find me on
-[Twitter][1] or [![LinkedIn][2.2]][2]
+[Twitter][1] or [LinkedIn][2]
 
 <!-- Icons -->
 
