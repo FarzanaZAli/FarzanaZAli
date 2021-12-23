@@ -12,7 +12,7 @@ If you're a social 🦋, come find me on
 
 <!-- Icons -->
 
-[1.2]: https://toppng.com/uploads/preview/twitter-icon-transparent-11549680383mmzgiol88v.png
+[1.2]: https://www.clipartmax.com/png/middle/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.png
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
