@@ -12,7 +12,7 @@ If you're a social 🦋, come find me on
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/material-sharp/30/000000/twitter.png
+[1.2]: https://images.unsplash.com/photo-1611605698335-8b1569810432?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
