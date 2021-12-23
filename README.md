@@ -12,7 +12,7 @@ If you're a social 🦋, come find me on
 
 <!-- Icons -->
 
-[1.2]: https://www.clipartmax.com/png/middle/251-2517877_tweet-twitter-icon-icon-chirrup-icon-icon-twitter-png-format-twitter-logo.png
+[1.2]: https://www.tutorialchip.com/wp-content/uploads/2011/06/Follow-me-on-Twitter-icon-520x312.jpg
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
