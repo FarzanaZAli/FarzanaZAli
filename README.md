@@ -2,7 +2,7 @@
  I’m @FarzanaZAli 🤓
 - 👀 My research interests include Deep learning/ML and timeseries analysis
 - 🌱 I’m currently learning multitask models and multi-label outputs for deep learning
-- 💞️ I’m looking to expand my work on Radiology image analysis with deep learning and Actigraphy
+- 💞️ I’m looking to expand my work on medical image analysis with deep learning and wearable sensor data analysis with Actigraphy
 - 📫 You can reach me at farzanazali@protonmail.com
 
 <!-- Actual text -->
