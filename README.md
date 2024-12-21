@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  I’m @FarzanaZAli 🤓
-- 👀 My research interests include Deep learning/ML and timeseries analysis
+- 👀 My research interests include Deep learning/ML in cancer imaging
 - 🌱 I’m currently learning multitask models and multi-label outputs for deep learning
-- 💞️ I’m looking to expand my work on medical image analysis with deep learning and wearable sensor data analysis with Actigraphy
+- 💞️ I’m looking to expand my work on AI for molecular targeting
 - 📫 You can reach me at farzanazali@protonmail.com
 
 <!-- Actual text -->
